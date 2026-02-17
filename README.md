@@ -1,0 +1,2 @@
+# Taks
+python-internship-tasks
