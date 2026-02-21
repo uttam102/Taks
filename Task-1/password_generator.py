@@ -77,6 +77,5 @@ def main():
             print("\n\n Program terminated by user.")
             break
 
-
 if __name__ == "__main__":
     main()
