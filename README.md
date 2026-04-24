@@ -134,7 +134,7 @@ This repository is designed to teach and master foundational-to-advanced Python 
 ## 👨‍💻 Author
 
 Built with ❤️ by **Uttam**
-> GitHub: [@uttam102](https://github.com/uttam102)
+> GitHub: [@uttam-kalsariya](https://github.com/uttam-kalsariya)
 
 ---
 *Happy Coding! 🎉*
